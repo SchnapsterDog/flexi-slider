@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/bundlephobia/min/flexi-slider?style=flat-square)](https://www.npmjs.com/package/flexi-slider)
 [![npm](https://img.shields.io/npm/dw/flexi-slider?style=flat-square)](https://www.npmjs.com/package/flexi-slider)
 
-Welcome to [version 0.0.1]() of **Flexi Slider**, an easy to implement, and well maintained **Vue.js** component.
+Welcome to [version 0.0.2]() of **Flexi Slider**, an easy to implement, and well maintained **Vue.js** component.
 
 You can support this project by giving it a star, or following the author. :heart:.
 
