@@ -19,7 +19,7 @@
   ],
   "license": "MIT",
   "name": "flexi-slider",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/flexi-slider.ssr.js",
   "browser": "dist/flexi-slider.esm.js",
   "module": "dist/flexi-slider.esm.js",
